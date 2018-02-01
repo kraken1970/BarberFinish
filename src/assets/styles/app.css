@@ -1,0 +1,10 @@
+@import 'normalize.css/normalize.css';
+@import './lib/bootstrap-grid-3.3.1.min.css';
+@import './fonts.css';
+@import './main-page.css';
+@import './pop-up.css';
+@import './price.css';
+@import './shop-care-products.css';
+@import './shop-item-baxter-02.css';
+@import './media.css';
+
